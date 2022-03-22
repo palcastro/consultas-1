@@ -8,6 +8,8 @@ A través de los comandos:
 `USE dbname;`
 
 ![image](https://user-images.githubusercontent.com/91055754/159462938-c22813ca-d441-4428-bd4e-e593b18f3c81.png)
+![image](https://user-images.githubusercontent.com/91055754/159484578-b62c59b5-ec89-47b9-bc05-20e86a165e5f.png)
+
 ![image](https://user-images.githubusercontent.com/91055754/159463009-56221e74-68f0-4ef3-8c49-287595615ff4.png)
 
 
